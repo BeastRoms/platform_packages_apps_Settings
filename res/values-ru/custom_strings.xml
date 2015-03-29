@@ -26,5 +26,7 @@
     <string name="selinux_status_disabled">Отключен</string>
     <string name="selinux_status_permissive">Разрешающий</string>
     <string name="selinux_status_enforcing">Принудительный</string>
+	
+    <string name="screenshot_shutter_sound_title">Звук снимка экрана</string>
 
 </resources>
