@@ -41,5 +41,11 @@
     <string name="dashboard_suggestions_title">Подсказки в главном меню</string>
     <string name="summary_dashboard_suggestions_enabled">Подсказки в главном меню включены</string>
     <string name="summary_dashboard_suggestions_disabled">Подсказки в главном меню выключены</string>
+	
+    <!-- Hardware info -->
+    <!-- Label for device's hardware platform value [CHAR LIMIT=40] -->
+    <string name="platform_revision">Платформа</string>
+    <!-- Label for device's hardware ram size [CHAR LIMIT=40] -->
+    <string name="total_ram">Количество ОЗУ</string>
 
 </resources>
