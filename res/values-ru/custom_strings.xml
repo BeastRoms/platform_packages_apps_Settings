@@ -21,4 +21,10 @@
     <!-- About phone screen, build date -->
     <string name="build_date">Дата сборки</string>
     <string name="build_date_default">2019-01-01-0000</string>
+	
+    <string name="selinux_status">Статус SELinux</string>
+    <string name="selinux_status_disabled">Отключен</string>
+    <string name="selinux_status_permissive">Разрешающий</string>
+    <string name="selinux_status_enforcing">Принудительный</string>
+
 </resources>
