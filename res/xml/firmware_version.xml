@@ -21,6 +21,10 @@
     android:key="firmware_version_screen"
     android:title="@string/firmware_version"
     settings:keywords="@string/keywords_android_version">
+	
+<PreferenceScreen
+    android:layout="@layout/beast_logo"
+    android:key="beast_logo" />
 
     <!-- Android version -->
     <Preference
