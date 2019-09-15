@@ -28,5 +28,7 @@
     <string name="selinux_status_enforcing">Принудительный</string>
 	
     <string name="screenshot_shutter_sound_title">Звук снимка экрана</string>
+	
+    <string name="battery_temp">Температура батареи</string>
 
 </resources>
