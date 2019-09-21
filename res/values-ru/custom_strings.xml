@@ -14,6 +14,10 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Beast Settings -->
+    <string name="beast_settings_title">Настройки Beast</string>
+    <string name="beast_dashboard_summary">Настрой своего зверя!</string>
+
     <!-- About phone screen, BeastROMs version -->
     <string name="beast_version">Версия BeastROMs</string>
     <string name="beast_version_default">Неизвестно</string>
